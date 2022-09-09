@@ -12,6 +12,8 @@
             <% RS_Basic_App_GitHub.Class1 tp = new RS_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
             Adding a code change.
+            adding feature 1.
+            update
         </div>
     </form>
 </body>
